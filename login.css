@@ -1,0 +1,26 @@
+body{
+		background-image: url("img2.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		color: white;
+		font-size: 30px;
+}
+h1{
+	color: Black;
+	font-size: 75px;		
+}
+table{
+		font-family: serif;
+		font-size: 35px;
+		background-color: rgba(55,27,7,0.3);
+		background-size: cover;
+		width: 100%;
+		size: 100%;
+		color: Black;
+}
+a{
+	color: black;
+	font-family: cursive;
+	font-weight: bold;	
+}
+
